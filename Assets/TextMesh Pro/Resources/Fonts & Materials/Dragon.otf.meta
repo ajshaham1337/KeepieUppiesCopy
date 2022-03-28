@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6dc52d2ab5afaed47ac6c4280c9c5d47
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Dragon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 967b302c3bb2c7648844292fa6e65bce, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

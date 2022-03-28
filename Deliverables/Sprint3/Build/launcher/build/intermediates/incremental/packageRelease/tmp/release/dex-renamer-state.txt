@@ -1,0 +1,4 @@
+#Thu Feb 10 13:37:01 PST 2022
+base.0=C\:\\Users\\gjewc\\OneDrive\\Desktop\\Capstone\\Keepie_Uppies\\KeepUp2D\\KeepUp\\Deliverables\\Sprint3\\Build\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
