@@ -6,6 +6,6 @@ Link to Playstore: https://play.google.com/store/apps/details?id=com.KU.com.unit
 
 Alex Shaham: Programmer
 Josh Hugly: Producer
-Bill: Sound
-Mengya: Environment/Character Art
+Bill Wong: Sound
+Mengya Qiu: Environment/Character Art
 Alexis Sanchez: UI Art
